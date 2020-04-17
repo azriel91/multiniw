@@ -1,0 +1,8 @@
+[package]
+name = "multiniw"
+version = "0.1.0"
+authors = ["Azriel Hoh <azriel91@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+winit = "0.22.0"
